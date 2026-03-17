@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Itsmoist",
   "VITE_SEO_SITE_DESCRIPTION": "The Moist Dex",
-  "VITE_SEO_SITE_URL": "https://moistbandz.xyz",
+  "VITE_SEO_SITE_URL": "https://app.itsmoist.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@PB_andNelly",
